@@ -6,53 +6,51 @@
     }
   ],
   "profile": {
-    "fakeShopAds": {
-      "data": {
-        "shopInfo": {
-          "id": 313621,
-          "name": "Tester SMC",
-          "shop_logo": "http://media3.scdn.vn/img3/2019/10_21/sC53SZ.png",
-          "shop_type": 0,
-          "shop_level": 0,
-          "rating": 0.0,
-          "shop_url": "https://stg.sendo.vn/shop/tester-smc"
-        },
-        "products": [
-          {
-            "name": "Áo sơmi hollister trắng sữa",
-            "image": "https://media3.scdn.vn/img2/2018/5_21/oaMxFi_simg_b5529c_250x250_maxb.jpg",
-            "final_price": 800000,
-            "price": 800000.0,
-            "rating_percent": 0,
-            "total_rated": 0,
-            "promotion_percent": 0.0,
-            "product_id": 9830247
-          },
-          {
-            "name": "Quần đi biển couple 7 màu tươi trẻ",
-            "image": "https://media3.scdn.vn/img3/2019/1_23/0eygHn_simg_b5529c_250x250_maxb.jpg",
-            "final_price": 700000,
-            "price": 700000.0,
-            "rating_percent": 0,
-            "total_rated": 0,
-            "promotion_percent": 0.0,
-            "product_id": 16000508
-          },
-          {
-            "name": "Áo sơ mi holister tay dài màu grey hơi xanh xanh",
-            "image": "https://media3.scdn.vn/img3/2018/12_25/nBedOm_simg_b5529c_250x250_maxb.jpg",
-            "final_price": 900000,
-            "price": 900000.0,
-            "rating_percent": 0,
-            "total_rated": 0,
-            "promotion_percent": 0.0,
-            "product_id": 16000075
-          }
-        ]
+    "data": {
+      "shopInfo": {
+        "id": 313621,
+        "name": "Tester SMC",
+        "shop_logo": "http://media3.scdn.vn/img3/2019/10_21/sC53SZ.png",
+        "shop_type": 0,
+        "shop_level": 0,
+        "rating": 0.0,
+        "shop_url": "https://stg.sendo.vn/shop/tester-smc"
       },
-      "message": "Success",
-      "statusCode": 200,
-      "total": null
-    }
+      "products": [
+        {
+          "name": "Áo sơmi hollister trắng sữa",
+          "image": "https://media3.scdn.vn/img2/2018/5_21/oaMxFi_simg_b5529c_250x250_maxb.jpg",
+          "final_price": 800000,
+          "price": 800000.0,
+          "rating_percent": 0,
+          "total_rated": 0,
+          "promotion_percent": 0.0,
+          "product_id": 9830247
+        },
+        {
+          "name": "Quần đi biển couple 7 màu tươi trẻ",
+          "image": "https://media3.scdn.vn/img3/2019/1_23/0eygHn_simg_b5529c_250x250_maxb.jpg",
+          "final_price": 700000,
+          "price": 700000.0,
+          "rating_percent": 0,
+          "total_rated": 0,
+          "promotion_percent": 0.0,
+          "product_id": 16000508
+        },
+        {
+          "name": "Áo sơ mi holister tay dài màu grey hơi xanh xanh",
+          "image": "https://media3.scdn.vn/img3/2018/12_25/nBedOm_simg_b5529c_250x250_maxb.jpg",
+          "final_price": 900000,
+          "price": 900000.0,
+          "rating_percent": 0,
+          "total_rated": 0,
+          "promotion_percent": 0.0,
+          "product_id": 16000075
+        }
+      ]
+    },
+    "message": "Success",
+    "statusCode": 200,
+    "total": null
   }
 }
