@@ -52,5 +52,24 @@
     "message": "Success",
     "statusCode": 200,
     "total": null
+  },
+  "widgets": {
+    "data": [
+      {
+        "widgetCode": "TOPCate1",
+        "cateLevelCode": 1
+      },
+      {
+        "widgetCode": "TOPCate2",
+        "cateLevelCode": 2
+      },
+      {
+        "widgetCode": "TOPCate3",
+        "cateLevelCode": 3
+      }
+    ],
+    "message": "Success",
+    "statusCode": 200,
+    "total": null
   }
 }
